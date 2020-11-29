@@ -20,6 +20,11 @@ The Project is made to track the workouts either cardio/resistance and can gener
 Start Entering your workouts everyday and after a week or so go and watch the stats dashboard to see how did you go.
 
 you can alsonavigate to [work-out-tracker](https://workouts-tracker-tony.herokuapp.com/)
+
+#### Landing Page 
+![LandingPage](readme-imgs/main.jpg)
+#### Dashboard /Statistics Page
+![StatsPage](readme-imgs/stats.jpg)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## Tests
