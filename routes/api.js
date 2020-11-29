@@ -34,6 +34,7 @@ router.post('/workouts', jsonParser, async (req, res) => {
 
 //Add Exercise
 router.put('/workouts/:id', jsonParser, async (req, res) => {
+    console.log(req.body);
     const data = await db.Workout.findByIdAndUpdate({ _id: req.params.id }, {
         day: Date.now(),
         exercises: [{
